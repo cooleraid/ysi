@@ -1,2 +1,2 @@
 # ysi
-A simple php authentication app
+A simple php authentication app for ysi
